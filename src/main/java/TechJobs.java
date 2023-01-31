@@ -129,7 +129,7 @@ public class TechJobs {
                 System.out.println("*****");
             }
         if (someJobs.size() == 0) {
-            System.out.println("No Results");
+            System.out.print("No Results");
         }
     }
 }
